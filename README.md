@@ -35,4 +35,8 @@ Ensure you have the following installed:
     npm start
 By default, the server runs on http://localhost:5000.
 
+### API Documentation
 
+## Base URL
+   ```bash
+   http://localhost:5000/api/menu
